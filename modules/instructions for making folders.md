@@ -1,0 +1,7 @@
+![image](https://github.com/1daytotheleft/ENG3810/blob/main/images/1_add_file.png)
+![image](https://github.com/1daytotheleft/ENG3810/blob/main/images/2%20create%20file.png)
+![image](https://github.com/1daytotheleft/ENG3810/blob/main/images/3_name_folder.png)
+![image](https://github.com/1daytotheleft/ENG3810/blob/main/images/4_slash_and_file.png)
+![image](https://github.com/1daytotheleft/ENG3810/blob/main/images/5_commit_file.png)
+![image](https://github.com/1daytotheleft/ENG3810/blob/main/images/6_nextpage.png)
+![image](https://github.com/1daytotheleft/ENG3810/blob/main/images/7_from_main.png)
