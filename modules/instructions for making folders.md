@@ -1,4 +1,4 @@
-<!--remember to add alt text to images-->
+<!--add alt text to images?-->
 # HOW TO CREATE FOLDERS IN GITHUB
 1. go to dashboard and click "add file"
 
