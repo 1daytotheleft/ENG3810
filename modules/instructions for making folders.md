@@ -6,7 +6,7 @@
 2. Among the options that appear under "Add File," click "Create New File"
 
 ![image](https://github.com/1daytotheleft/ENG3810/blob/main/images/2%20create%20file.png)
-3. Go to the textbox and enter your new folder's name. Afterwards, type **"/"**
+3. Go to the textbox and enter your new folder's name. Directly following it, type **"/"**
 
 (*Do not type the quotation marks*)
 
@@ -15,9 +15,8 @@
 
 ![image](https://github.com/1daytotheleft/ENG3810/blob/main/images/4_slash_and_file.png)
 
-5. Scroll to the bottom of the page (You may add any content that's intended for it first) and press "Commit"
+5. Scroll to the bottom of the page (You may add any content that's intended for it first) and press "Commit new file"
 ![image](https://github.com/1daytotheleft/ENG3810/blob/main/images/5_commit_file.png)
 
-6.
-![image](https://github.com/1daytotheleft/ENG3810/blob/main/images/6_nextpage.png)
+6. When you return to your dashboard, you will be able to find your new folder.
 ![image](https://github.com/1daytotheleft/ENG3810/blob/main/images/7_from_main.png)
