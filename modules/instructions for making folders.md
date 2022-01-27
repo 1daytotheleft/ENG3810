@@ -1,6 +1,6 @@
 <!--add alt text to images?-->
 # HOW TO CREATE FOLDERS IN GITHUB
-1. go to dashboard and click "add file"
+1. Do to repository and click "Add File"
 
 ![image](https://github.com/1daytotheleft/ENG3810/blob/main/images/1_add_file.png)
 2. Among the options that appear under "Add File," click "Create New File"
@@ -18,5 +18,5 @@
 5. Scroll to the bottom of the page (You may add any content that's intended for it first) and press "Commit new file"
 ![image](https://github.com/1daytotheleft/ENG3810/blob/main/images/5_commit_file.png)
 
-6. When you return to your dashboard, you will be able to find your new folder.
+6. When you return to your repository, you will be able to find your new folder.
 ![image](https://github.com/1daytotheleft/ENG3810/blob/main/images/7_from_main.png)
