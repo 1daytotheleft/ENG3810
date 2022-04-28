@@ -32,7 +32,7 @@ This tutorial will first explain its purpose and the definition of NER. It will 
 ### NER tutorial:
 ![NER1](https://github.com/1daytotheleft/ENG3810/blob/main/images/ner%201.png "sfs")
 
-*Start with large, clear title and succinct explanation of function that will be taught in this tutorial. *
+*Start with large, clear title and succinct explanation of function that will be taught in this tutorial.*
 
 ![NER2](https://github.com/1daytotheleft/ENG3810/blob/main/images/ner2.png) 
 
@@ -40,47 +40,47 @@ This tutorial will first explain its purpose and the definition of NER. It will 
 
 ![NER3](https://github.com/1daytotheleft/ENG3810/blob/main/images/ner3.png)
 
-*This isn’t a step but give it a heading format so users understand it’s important. The notation format is thus also a little different, so users will know this section is to enrich understanding, not necessarily part of the process in creating the function.
+*This isn’t a step but give it a heading format so users understand it’s important. The notation format is thus also a little different, so users will know this section is to enrich understanding, not necessarily part of the process in creating the function.*
  
 ![NER](https://github.com/1daytotheleft/ENG3810/blob/main/images/ner4.png)
 
-*Go back to using the heading and notation format used to step 1.
+*Go back to using the heading and notation format used to step 1.*
 
 ![NER](https://github.com/1daytotheleft/ENG3810/blob/main/images/ner5.png)
 
-*Use same format as previous. 
+*Use same format as previous.*
  
  ![NER](https://github.com/1daytotheleft/ENG3810/blob/main/images/ner6.png)
 
-*Use same format as previous. This is the final step to be demonstrated. The final output should be shown as well. 
+*Use same format as previous. This is the final step to be demonstrated. The final output should be shown as well.*
  
  ![NER](https://github.com/1daytotheleft/ENG3810/blob/main/images/ner7.png)
 
-*A content table at the side will make it easy for the user to refer back to a particular step it they need it.
+*A content table at the side will make it easy for the user to refer back to a particular step it they need it.*
 ### Token/Attribute tutorial:
 ![Token](https://github.com/1daytotheleft/ENG3810/blob/main/images/token1.png)
 
-*Start with a clear, noticeable title. Briefly explain that this tutorial uses spaCy, as these attributes are specific to spaCy, and include which version is being used. 
+*Start with a clear, noticeable title. Briefly explain that this tutorial uses spaCy, as these attributes are specific to spaCy, and include which version is being used.*
  
  ![Token](https://github.com/1daytotheleft/ENG3810/blob/main/images/token2.png)
 
-*Provide a list of token attributes for the user to peruse, so the user has an idea of what it looks like on its own without yet being put into code cells. 
+*Provide a list of token attributes for the user to peruse, so the user has an idea of what it looks like on its own without yet being put into code cells.*
  
  ![Token](https://github.com/1daytotheleft/ENG3810/blob/main/images/token3.png)
 
-*This section explains each attribute’s description. It provides examples of what the attribute would judge as true and what it would judge as false, AKA what counts and what doesn’t. most important part of definition is bolded and capitalized. Each description is written in parallel syntax so user has easiest way to see point of contrast between each. 
+*This section explains each attribute’s description. It provides examples of what the attribute would judge as true and what it would judge as false, AKA what counts and what doesn’t. most important part of definition is bolded and capitalized. Each description is written in parallel syntax so user has easiest way to see point of contrast between each.*
  
  ![Token](https://github.com/1daytotheleft/ENG3810/blob/main/images/token4.png)
 
-*Steps are written in heading format. Notes are written below. Notes in code cells are short and simply show user what each line does specifically. 
+*Steps are written in heading format. Notes are written below. Notes in code cells are short and simply show user what each line does specifically.*
  
  ![Token](https://github.com/1daytotheleft/ENG3810/blob/main/images/token5.png)
 
-*Same as above.
+*Same as above.*
  
  ![Token](https://github.com/1daytotheleft/ENG3810/blob/main/images/token6.png)
 
-*Basic idea of step 3 is given, then presented in 3 variations, each using one of the three featured attributes. The final output is shown for each. Notation to the side points out to user which tokens have been marked true or false with each attribute. 
+*Basic idea of step 3 is given, then presented in 3 variations, each using one of the three featured attributes. The final output is shown for each. Notation to the side points out to user which tokens have been marked true or false with each attribute.*
 ## Conclusion
 Here are our recommendations based on our research and analyses of competitors: 
 -	Provide an index and/or introductory section which explains basic programming terms and spaCy-specific terms. 
